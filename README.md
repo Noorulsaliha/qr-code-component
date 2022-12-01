@@ -71,7 +71,7 @@ At first, it was very difficult to understand the organized code to complete thi
     margin-bottom: 1rem;
 }
 
-	body{
+body{
     background-color: hsl(212, 45%, 89%);
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
