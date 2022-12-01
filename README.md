@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/Noorulsaliha/qr-code-component.git)
-- Live Site URL: ()
+- Live Site URL: (https://saliha-qr-code-component.netlify.app/)
 
 
 ### Built with
@@ -94,5 +94,5 @@ With the help of this project, I can able to customize and add new features to t
 
 ## Author
 
-- Frontend Mentor - [@Noorul SalihaS](https://www.frontendmentor.io/profile/Noorulsaliha)
+- Frontend Mentor - [@Noorul Saliha](https://www.frontendmentor.io/profile/Noorulsaliha)
 
